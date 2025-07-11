@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: rl-kuka-robot
+Version: 0.1
+Summary: kuka robot trajectory planning using rl
+Home-page: None
+Author: zgj
+Author-email: Ghost100453@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
